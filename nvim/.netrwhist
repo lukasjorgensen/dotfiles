@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/home/lukasjorgensen/CODE/el_toro/gcs-rs/middleware/src/gaia'
+let g:netrw_dirhist_7='/home/lukasjorgensen/CODE/el_toro/gcs-rs/middleware/src'
+let g:netrw_dirhist_6='/home/lukasjorgensen/CODE/el_toro/gcs-rs/middleware/src/gaia'
+let g:netrw_dirhist_5='/Users/brandon/Projects/druid-spark-batch/src/test/resources/text'
+let g:netrw_dirhist_4='/Users/brandon/Projects/druid-spark-batch'
+let g:netrw_dirhist_3='/Users/brandon/Downloads/kube-yarn-master/image'
+let g:netrw_dirhist_2='/Users/brandon/Source/ElToro/gringotts/diagonalley/gringotts/geocoder'
+let g:netrw_dirhist_1='/Users/brandon/Source/ElToro/gringotts/diagonalley/gringotts'
+let g:netrw_dirhist_0='/Users/brandon/Source/ElToro/gringotts/diagonalley/gringotts/geocoder'
+let g:netrw_dirhist_9='/Users/brandon/Source/ElToro/gringotts/diagonalley/gringotts/airflow'
